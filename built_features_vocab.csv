@@ -1,0 +1,350 @@
+,0
+0, steel 
+1, Steel framing
+2, Mezzanine 
+3, cladding rails 
+4, wires 
+5, mud 
+6, mud brick
+7, rammed earth 
+8, Concrete 
+9, Elevator
+10, Escalator
+11, Composite
+12, Thermal protection 
+13, insulation 
+14, Moisture protection 
+15, Building envelop
+16, Conformal coating 
+17, Housewrap
+18, Door
+19, rail
+20, raised panel
+21, wood 
+22, socket
+23, glass door
+24, tambour 
+25, Folding door
+26, garage door
+27, storefront 
+28, Door hardware 
+29, Electrical 
+30, plug
+31, Circuit breaker
+32, Electrical connector
+33, wiring
+34, Switch
+35, Surface finishing 
+36, Plaster 
+37, gypsum 
+38, Cement 
+39, Ceramic 
+40, quarry 
+41, paver
+42, mosaic
+43, ceiling
+44, penaling 
+45, carpet
+46, Marble 
+47, Wall covering 
+48, Wallpaper
+49, acoustic
+50, Paint
+51, wood stain
+52, faux finishing 
+53, extinguisher
+54, Stucco 
+55, Wood finishing 
+56, Fire
+57, Furnishing
+58, HVAC 
+59, Masonry 
+60, Mortar 
+61, grout 
+62, Adobe 
+63, bricks 
+64, Brickwork 
+65, glass brick
+66, terra cotta 
+67, Artificial stone
+68, Cinder block
+69, concrete block
+70, Noxer block
+71, Stone
+72, Urbanite 
+73, Metal
+74, beam
+75, column
+76, Rebar 
+77, Wire rope
+78, cable
+79, Metal joist 
+80, Decking 
+81, Framing 
+82, truss
+83, Metal fabrication
+84, Stairway
+85, ladder
+86, Railing
+87, grating 
+88, Strut channel 
+89, roofing
+90, Window
+91, Plastic
+92, Plumbing 
+93, Building safety 
+94, Security system
+95, Wood 
+96, carpentry 
+97, Timber
+98, subfloor
+99, Bamboo 
+100, lumber 
+101, Sheathing 
+102, Veneer 
+103, laminate 
+104, wood panel
+105, Millwork 
+106, Bookcase
+107, cabinet
+108, woodwork
+109, Trim 
+110, Molding 
+111, moulding 
+112, Chair rail
+113, baseboard
+114, casing
+115, sill 
+116, chandelier
+117, Casement 
+118, double hung 
+119, Curtainwall
+120, skylight 
+121, dormer
+122, Chair
+123, Bean bag
+124, Chaise lounge
+125, Fauteuil 
+126, Ottoman
+127, Recliner 
+128, Stool
+129, Bar Stool
+130, Footstool
+131, Tuffet
+132, Fainting couch
+133, Rocking chair
+134, Bar chair
+135, Bench
+136, Couch
+137, Accubita 
+138, Canapé 
+139, Davenport
+140, Klinai 
+141, Divan 
+142, Love seat
+143, Chesterfield 
+144, sofa
+145, Bed
+146, Bunk bed
+147, Canopy bed
+148, Four-poster bed
+149, Murphy bed
+150, Platform bed
+151, Sleigh bed
+152, Waterbed
+153, Daybed
+154, Futon
+155, Hammock
+156, Headboard
+157, crib
+158, Mattress
+159, Sofa bed
+160, Billiard table
+161, Chess table
+162, Hi-fi 
+163, Jukebox
+164, Video game console
+165, computer
+166, Chabudai 
+167, Changing table
+168, Desk
+169, Davenport desk
+170, Drawing board
+171, Computer desk
+172, Writing desk
+173, Kotatsu 
+174, Korsi 
+175, Lowboy 
+176, Monks bench
+177, Pedestal
+178, Table
+179, Game Table
+180, Coffee table
+181, Dining table
+182, Refectory table
+183, Drop-leaf table
+184, End table
+185, Folding table
+186, Gateleg table
+187, Trestle table
+188, TV tray table
+189, Washstand
+190, Workbench
+191, Cabinetry 
+192, Bathroom cabinet
+193, Chifforobe
+194, Closet
+195, Cupboard
+196, Curio cabinet
+197, Hutch
+198, Hoosier cabinet
+199, Pantr
+200, Cellarette
+201, Coat rack
+202, Drawer
+203, tree
+204, Hatstand
+205, Filing cabinet
+206, floating shelf
+207, Nightstand
+208, Plant stand
+209, Umbrella
+210, views 
+211, natural light 
+212, air 
+213, ventilation 
+214, material
+215, color
+216, shape
+217, form
+218, geometry 
+219, vegetation
+220, plant
+221, animal
+222, water 
+223, fire
+224, weather 
+225, smell
+226, biomimicry 
+227, belongingness 
+228, mobility 
+229, wayfinding 
+230, prospect 
+231, refuge 
+232, vista 
+233, rest 
+234, curve
+235, fractal
+236, pattern
+237, looks organic 
+238, feels organic 
+239, texture
+240, dynamic
+241, divers 
+242, ecolog
+243, integrat
+244, coherent 
+245, holistic 
+246, engagement 
+247, restor 
+248, fridge 
+249, refrigerator 
+250, freezer 
+251, dishwasher 
+252, microwave 
+253, sink
+254, cabinet
+255, mirror
+256, towel
+257, curtain
+258, faucet
+259, shower
+260, wardrobe
+261, chest of drawers 
+262, nightstand
+263, linen
+264, comforter
+265, blanket
+266, pillow
+267, plant
+268, frame
+269, vase
+270, candle
+271, lantern
+272, fragrance
+273, decoration
+274, sideboard
+275, wireless 
+276, charger
+277, cord
+278, USB charg
+279, LED
+280, bulb
+281, light strip
+282, decking 
+283, knob
+284, handle
+285, wall
+286, panel
+287, stain
+288, hardware 
+289, lamp
+290, spotlight
+291, pendant
+292, smart light
+293, uplight
+294, lamp shade
+295, lampshade
+296, light bulb
+297, sofa
+298, armchair
+299, rug
+300, cushion
+301, blinds 
+302, carpet
+303, tv
+304, shelf 
+305, shelves 
+306, desk
+307, office chair
+308, swivel chair
+309, storage 
+310, drawer
+311, bin
+312, basket
+313, tray
+314, textile
+315, screen
+316, chaise
+317, lounge
+318, pouffe 
+319, wifi 
+320, sunny 
+321, chilly 
+322, freezing 
+323, frosty 
+324, icy 
+325, cloudy 
+326, overcast 
+327, cloudless 
+328, bright 
+329, humid 
+330, muggy 
+331, scorch
+332, stifi
+333, swelter
+334, rain 
+335, sun 
+336, wind 
+337, cloud 
+338, dizzle 
+339, showers 
+340, downpour 
+341, flood 
+342, hail 
+343, sleet 
+344, snow 
+345, bizzard 
+346, breez
+347, bluster
+348, gale 
