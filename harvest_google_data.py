@@ -101,7 +101,7 @@ def build_df(place_ids):
 	return business_and_review_df
 
 if __name__=="__main__":
-	api_key = "blah"
+	api_key = "redacted"
 	cities = get_cities('cities.csv')
 	place_ids = get_place_ids(cities, api_key)
 	
